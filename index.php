@@ -47,16 +47,7 @@
 </head>
 <!-- To change color change the class "color-1" to "color-2, color-3 ... color-6" -->
 <body class="home color-1">
-<script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
-  ga('create', 'UA-42139940-1', 'jophest.us');
-  ga('send', 'pageview');
-
-</script>
 
 	<!-- Big Full screen Banner -->
 	<div class="hero bg-fixed bg-color" id="home">
